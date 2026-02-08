@@ -1,0 +1,77 @@
+{
+  "book_id": "postwar-existentialist-maximalist-love-mortality",
+  "title": "The Soundless Exhalation of Things",
+  "tagline": "In the muted aftermath of a war that ended with a whisper, a librarian of fragments and a sculptor of ghosts must catalogue a ruined world, discovering that love is the only taxonomy for loss.",
+  "target_words": 72726,
+  "actual_words": 72726,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Archaeology of Aftermath",
+    "Love as an Act of Preservation",
+    "The Taxonomy of Loss",
+    "Beauty in the Fractured"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Sub-Audible Hum",
+      "words": 6060
+    },
+    {
+      "ch": 2,
+      "title": "A Train of Convalescence",
+      "words": 6060
+    },
+    {
+      "ch": 3,
+      "title": "The Microscopic Error",
+      "words": 6060
+    },
+    {
+      "ch": 4,
+      "title": "A Compass of Wild Needles",
+      "words": 6060
+    },
+    {
+      "ch": 5,
+      "title": "The Gallery as a Wound",
+      "words": 6060
+    },
+    {
+      "ch": 6,
+      "title": "A Gilded, Exquisite Cage",
+      "words": 6060
+    },
+    {
+      "ch": 7,
+      "title": "The Listening Quiet",
+      "words": 6060
+    },
+    {
+      "ch": 8,
+      "title": "A Personal Cessation",
+      "words": 6060
+    },
+    {
+      "ch": 9,
+      "title": "The Mechanism Run Down",
+      "words": 6060
+    },
+    {
+      "ch": 10,
+      "title": "Between One Breath and the Next",
+      "words": 6060
+    },
+    {
+      "ch": 11,
+      "title": "A Temple to a Forgotten God",
+      "words": 6060
+    },
+    {
+      "ch": 12,
+      "title": "The Soundless Exhalation",
+      "words": 6060
+    }
+  ]
+}
